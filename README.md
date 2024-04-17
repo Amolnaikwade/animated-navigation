@@ -1,6 +1,9 @@
-#Welcome to animated navigation
+# Welcome to Animated Navigation
 
-##technology Used 
--HTML,CSS,JavaScript.
+## Technology Used
+- HTML
+- CSS
+- JavaScript
 
-To see the live Demo go to:[Live Demo] ( https://amolnaikwade.github.io/animated-navigation/)
+## Live Demo
+To see the live demo, visit: [Live Demo](https://amolnaikwade.github.io/animated-navigation/)
